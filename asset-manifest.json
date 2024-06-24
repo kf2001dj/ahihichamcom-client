@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ahihichamcom-client/static/css/main.19a7bd48.css",
+    "main.js": "/ahihichamcom-client/static/js/main.618fb329.js",
+    "static/js/453.9fc61764.chunk.js": "/ahihichamcom-client/static/js/453.9fc61764.chunk.js",
+    "static/media/banner2.jpg": "/ahihichamcom-client/static/media/banner2.8925dae053afb7408a92.jpg",
+    "index.html": "/ahihichamcom-client/index.html",
+    "main.19a7bd48.css.map": "/ahihichamcom-client/static/css/main.19a7bd48.css.map",
+    "main.618fb329.js.map": "/ahihichamcom-client/static/js/main.618fb329.js.map",
+    "453.9fc61764.chunk.js.map": "/ahihichamcom-client/static/js/453.9fc61764.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19a7bd48.css",
+    "static/js/main.618fb329.js"
+  ]
+}
